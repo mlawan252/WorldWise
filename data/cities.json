@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "id": "c6f8",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-11-17T09:42:31.558Z",
+      "notes": "Test",
+      "position": {
+        "lat": "40.42604212826493",
+        "lng": "-3.6035156250000004"
+      }
+    },
+    {
+      "id": "4ecf",
+      "cityName": "Zaragoza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-11-19T17:47:59.976Z",
+      "notes": "Beautiful city",
+      "position": {
+        "lat": "41.671886028127",
+        "lng": "-0.81298828125"
+      }
+    },
+    {
+      "id": "558c",
+      "cityName": "Quicena",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-11-20T08:43:07.643Z",
+      "notes": "",
+      "position": {
+        "lat": "42.14507804381756",
+        "lng": "-0.3680419921875"
+      }
+    },
+    {
+      "id": "6782",
+      "cityName": "Abuja",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2024-11-11T17:44:26.000Z",
+      "notes": "Pre-moblisation Workshop at Evelyn Event Center",
+      "position": {
+        "lat": "9.092604622880069",
+        "lng": "7.393798828125001"
+      }
+    }
+  ]
+}
